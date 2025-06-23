@@ -1,0 +1,527 @@
+[
+  {
+    "info": [
+      {
+        "organization": "California Housing Partnership",
+        "name": "Matt Schwartz",
+        "prop": "Proposition 1",
+        "support": "Yes"
+      },
+      {
+        "organization": "Habitat for Humanity California",
+        "name": "Sharon Ellis",
+        "prop": "Proposition 1",
+        "support": "Yes"
+      },
+      {
+        "organization": "California State Building and Construction Trades Council",
+        "name": "Robbie Hunter",
+        "prop": "Proposition 1",
+        "support": "Yes"
+      },
+      {
+        "organization": "League of Women Voters of California",
+        "name": "Helen Hutchison",
+        "prop": "Proposition 1",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Chamber of Commerce",
+        "name": "Allan Zaremberg",
+        "prop": "Proposition 1",
+        "support": "Yes"
+      },
+      {
+        "organization": "Howard Jarvis Taxpayers Association",
+        "name": "Jon Coupal",
+        "prop": "Proposition 1",
+        "support": "No"
+      },
+      {
+        "organization": "California Republican Party",
+        "name": "Jim Brulte",
+        "prop": "Proposition 1",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Democratic Party",
+        "name": "Eric C. Bauman",
+        "prop": "Proposition 2",
+        "support": "Yes"
+      },
+      {
+        "organization": "League of Women Voters of California",
+        "name": "Helen L. Hutchison",
+        "prop": "Proposition 2",
+        "support": "Yes"
+      },
+      {
+        "organization": "California State Association of Counties",
+        "name": "Toni Atkins",
+        "prop": "Proposition 2",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Teachers Association",
+        "name": "Eric Heins",
+        "prop": "Proposition 2",
+        "support": "Yes"
+      },
+      {
+        "organization": "Howard Jarvis Taxpayers Association",
+        "name": "Jon Coupal",
+        "prop": "Proposition 2",
+        "support": "No"
+      },
+      {
+        "organization": "California Republican Party",
+        "name": "Jim Brulte",
+        "prop": "Proposition 2",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Waterfowl Association",
+        "name": "John Carlson",
+        "prop": "Proposition 3",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Wildlife Foundation",
+        "name": "Bill Gaines",
+        "prop": "Proposition 3",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Farm Bureau Federation",
+        "name": "Jamie Johansson",
+        "prop": "Proposition 3",
+        "support": "Yes"
+      },
+      {
+        "organization": "Audubon California",
+        "name": "Brigid McCormack",
+        "prop": "Proposition 3",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Chamber of Commerce",
+        "name": "Allan Zaremberg",
+        "prop": "Proposition 3",
+        "support": "Yes"
+      },
+      {
+        "organization": "League of Women Voters of California",
+        "name": "Helen Hutchison",
+        "prop": "Proposition 3",
+        "support": "No"
+      },
+      {
+        "organization": "Sierra Club California",
+        "name": "Kathryn Phillips",
+        "prop": "Proposition 3",
+        "support": "No"
+      },
+      {
+        "organization": "California State Grange",
+        "name": "Bob McFarland",
+        "prop": "Proposition 3",
+        "support": "No"
+      },
+      {
+        "organization": "Planning and Conservation League",
+        "name": "Jonas Minton",
+        "prop": "Proposition 3",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Children's Hospital Association",
+        "name": "Ann-Louise Kuhns",
+        "prop": "Proposition 4",
+        "support": "Yes"
+      },
+      {
+        "organization": "Lucile Packard Children's Hospital Stanford",
+        "name": "Paul King",
+        "prop": "Proposition 4",
+        "support": "Yes"
+      },
+      {
+        "organization": "UCSF Benioff Children's Hospitals",
+        "name": "Mark Laret",
+        "prop": "Proposition 4",
+        "support": "Yes"
+      },
+      {
+        "organization": "Children's Hospital Los Angeles",
+        "name": "Paul S. Viviano",
+        "prop": "Proposition 4",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Teachers Association",
+        "name": "Eric C. Heins",
+        "prop": "Proposition 4",
+        "support": "Yes"
+      },
+      {
+        "organization": "California State PTA",
+        "name": "Dianna MacDonald",
+        "prop": "Proposition 4",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Federation of Teachers",
+        "name": "Joshua Pechthalt",
+        "prop": "Proposition 4",
+        "support": "Yes"
+      },
+      {
+        "organization": "California School Employees Association",
+        "name": "Dave Low",
+        "prop": "Proposition 4",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Taxpayers Association",
+        "name": "Robert Gutierrez",
+        "prop": "Proposition 4",
+        "support": "No"
+      },
+      {
+        "organization": "Howard Jarvis Taxpayers Association",
+        "name": "Jon Coupal",
+        "prop": "Proposition 4",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Association of Realtors",
+        "name": "Steve White",
+        "prop": "Proposition 5",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Professional Firefighters",
+        "name": "Brian K. Rice",
+        "prop": "Proposition 5",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Chamber of Commerce",
+        "name": "Allan Zaremberg",
+        "prop": "Proposition 5",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Teachers Association",
+        "name": "Eric C. Heins",
+        "prop": "Proposition 5",
+        "support": "No"
+      },
+      {
+        "organization": "League of Women Voters of California",
+        "name": "Helen L. Hutchison",
+        "prop": "Proposition 5",
+        "support": "No"
+      },
+      {
+        "organization": "California State PTA",
+        "name": "Dianna MacDonald",
+        "prop": "Proposition 5",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Chamber of Commerce",
+        "name": "Allan Zaremberg",
+        "prop": "Proposition 6",
+        "support": "No"
+      },
+      {
+        "organization": "California Professional Firefighters",
+        "name": "Brian K. Rice",
+        "prop": "Proposition 6",
+        "support": "No"
+      },
+      {
+        "organization": "California Association of Highway Patrolmen",
+        "name": "Rick LaBeske",
+        "prop": "Proposition 6",
+        "support": "No"
+      },
+      {
+        "organization": "League of Women Voters of California",
+        "name": "Helen L. Hutchison",
+        "prop": "Proposition 6",
+        "support": "No"
+      },
+      {
+        "organization": "California State Conference NAACP",
+        "name": "Alice A. Huffman",
+        "prop": "Proposition 6",
+        "support": "No"
+      },
+      {
+        "organization": "Howard Jarvis Taxpayers Association",
+        "name": "Jon Coupal",
+        "prop": "Proposition 6",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Republican Party",
+        "name": "Jim Brulte",
+        "prop": "Proposition 6",
+        "support": "Yes"
+      },
+      {
+        "organization": "Reform California",
+        "name": "Carl DeMaio",
+        "prop": "Proposition 6",
+        "support": "Yes"
+      }
+    ]
+  },
+  null,
+  {
+    "info": [
+      {
+        "organization": "California Labor Federation",
+        "name": "Art Pulaski",
+        "prop": "Proposition 8",
+        "support": "Yes"
+      },
+      {
+        "organization": "SEIU United Healthcare Workers West",
+        "name": "Dave Regan",
+        "prop": "Proposition 8",
+        "support": "Yes"
+      },
+      {
+        "organization": "California State Conference of the NAACP",
+        "name": "Alice Huffman",
+        "prop": "Proposition 8",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Medical Association",
+        "name": "Ted Mazer",
+        "prop": "Proposition 8",
+        "support": "No"
+      },
+      {
+        "organization": "American Nurses Association California",
+        "name": "Monica Brown",
+        "prop": "Proposition 8",
+        "support": "No"
+      },
+      {
+        "organization": "National Kidney Foundation",
+        "name": "Kevin Longino",
+        "prop": "Proposition 8",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Chamber of Commerce",
+        "name": "Allan Zaremberg",
+        "prop": "Proposition 9",
+        "support": "No"
+      },
+      {
+        "organization": "California Labor Federation",
+        "name": "Art Pulaski",
+        "prop": "Proposition 9",
+        "support": "No"
+      },
+      {
+        "organization": "California State Conference of the NAACP",
+        "name": "Alice Huffman",
+        "prop": "Proposition 9",
+        "support": "No"
+      },
+      {
+        "organization": "League of Women Voters of California",
+        "name": "Helen Hutchison",
+        "prop": "Proposition 9",
+        "support": "No"
+      },
+      {
+        "organization": "California Democratic Party",
+        "name": "Eric C. Bauman",
+        "prop": "Proposition 9",
+        "support": "No"
+      },
+      {
+        "organization": "California Republican Party",
+        "name": "Jim Brulte",
+        "prop": "Proposition 9",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Democratic Party",
+        "name": "Eric C. Bauman",
+        "prop": "Proposition 10",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Nurses Association",
+        "name": "Bonnie Castillo",
+        "prop": "Proposition 10",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Teachers Association",
+        "name": "Eric Heins",
+        "prop": "Proposition 10",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Republican Party",
+        "name": "Jim Brulte",
+        "prop": "Proposition 10",
+        "support": "No"
+      },
+      {
+        "organization": "California Apartment Association",
+        "name": "Tom Bannon",
+        "prop": "Proposition 10",
+        "support": "No"
+      },
+      {
+        "organization": "Howard Jarvis Taxpayers Association",
+        "name": "Jon Coupal",
+        "prop": "Proposition 10",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Professional Firefighters",
+        "name": "Brian K. Rice",
+        "prop": "Proposition 11",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Ambulance Association",
+        "name": "Ross Elliott",
+        "prop": "Proposition 11",
+        "support": "Yes"
+      },
+      {
+        "organization": "American Medical Response",
+        "name": "Edward Van Horne",
+        "prop": "Proposition 11",
+        "support": "Yes"
+      },
+      {
+        "organization": "California State Sheriffs' Association",
+        "name": "Bill Brown",
+        "prop": "Proposition 11",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Peace Officers' Association",
+        "name": "Ron Lawrence",
+        "prop": "Proposition 11",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Police Chiefs Association",
+        "name": "David Swing",
+        "prop": "Proposition 11",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Nurses Association",
+        "name": "Bonnie Castillo",
+        "prop": "Proposition 11",
+        "support": "No"
+      },
+      {
+        "organization": "United EMS Workers",
+        "name": "Jason S. Hodge",
+        "prop": "Proposition 11",
+        "support": "No"
+      },
+      {
+        "organization": "AFSCME Local 4911",
+        "name": "Catherine Kennedy",
+        "prop": "Proposition 11",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "The Humane Society of the United States",
+        "name": "Kitty Block",
+        "prop": "Proposition 12",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Family Farms",
+        "name": "Paul Shapiro",
+        "prop": "Proposition 12",
+        "support": "Yes"
+      },
+      {
+        "organization": "ASPCA",
+        "name": "Matt Bershadker",
+        "prop": "Proposition 12",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Veterinary Medical Association",
+        "name": "Dr. Annie Harvilicz",
+        "prop": "Proposition 12",
+        "support": "Yes"
+      },
+      {
+        "organization": "National Pork Producers Council",
+        "name": "Jim Monroe",
+        "prop": "Proposition 12",
+        "support": "No"
+      },
+      {
+        "organization": "Association of California Egg Farmers",
+        "name": "Debbie Murdock",
+        "prop": "Proposition 12",
+        "support": "No"
+      },
+      {
+        "organization": "California Farm Bureau Federation",
+        "name": "Jamie Johansson",
+        "prop": "Proposition 12",
+        "support": "No"
+      }
+    ]
+  }
+]

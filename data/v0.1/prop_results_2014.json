@@ -1,0 +1,331 @@
+[
+  {
+    "info": [
+      {
+        "organization": "California Democratic Party",
+        "name": "John Burton",
+        "prop": "Proposition 1",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Chamber of Commerce",
+        "name": "Allan Zaremberg",
+        "prop": "Proposition 1",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Farm Bureau Federation",
+        "name": "Paul Wenger",
+        "prop": "Proposition 1",
+        "support": "Yes"
+      },
+      {
+        "organization": "California State Conference of the NAACP",
+        "name": "Alice Huffman",
+        "prop": "Proposition 1",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Republican Party",
+        "name": "Jim Brulte",
+        "prop": "Proposition 1",
+        "support": "No"
+      },
+      {
+        "organization": "Howard Jarvis Taxpayers Association",
+        "name": "Jon Coupal",
+        "prop": "Proposition 1",
+        "support": "No"
+      }
+    ]
+  },
+  null,
+  {
+    "info": [
+      {
+        "organization": "California Chamber of Commerce",
+        "name": "Allan Zaremberg",
+        "prop": "Proposition 43",
+        "support": "Yes"
+      },
+      {
+        "organization": "California State Sheriffs' Association",
+        "name": "Sheriff Keith Royal",
+        "prop": "Proposition 43",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Police Chiefs Association",
+        "name": "Chief Edward Medrano",
+        "prop": "Proposition 43",
+        "support": "Yes"
+      },
+      {
+        "organization": "California District Attorneys Association",
+        "name": "Nancy O'Malley",
+        "prop": "Proposition 43",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Taxpayers Association",
+        "name": "Teresa Casazza",
+        "prop": "Proposition 43",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Federation of Teachers",
+        "name": "Joshua Pechthalt",
+        "prop": "Proposition 43",
+        "support": "No"
+      },
+      {
+        "organization": "California Nurses Association",
+        "name": "Deborah Burger",
+        "prop": "Proposition 43",
+        "support": "No"
+      },
+      {
+        "organization": "California Teachers Association",
+        "name": "Dean E. Vogel",
+        "prop": "Proposition 43",
+        "support": "No"
+      },
+      {
+        "organization": "California Labor Federation",
+        "name": "Art Pulaski",
+        "prop": "Proposition 43",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Medical Association",
+        "name": "Richard Thorp",
+        "prop": "Proposition 45",
+        "support": "No"
+      },
+      {
+        "organization": "California Chamber of Commerce",
+        "name": "Allan Zaremberg",
+        "prop": "Proposition 45",
+        "support": "No"
+      },
+      {
+        "organization": "California NAACP",
+        "name": "Alice Huffman",
+        "prop": "Proposition 45",
+        "support": "No"
+      },
+      {
+        "organization": "California Labor Federation",
+        "name": "Art Pulaski",
+        "prop": "Proposition 45",
+        "support": "Yes"
+      },
+      {
+        "organization": "Consumer Watchdog",
+        "name": "Carmen Balber",
+        "prop": "Proposition 45",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Nurses Association",
+        "name": "Deborah Burger",
+        "prop": "Proposition 45",
+        "support": "Yes"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "Consumer Watchdog",
+        "name": "Carmen Balber",
+        "prop": "Proposition 46",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Nurses Association",
+        "name": "Deborah Burger",
+        "prop": "Proposition 46",
+        "support": "Yes"
+      },
+      {
+        "organization": "Consumer Attorneys of California",
+        "name": "Bruce Brusavich",
+        "prop": "Proposition 46",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Medical Association",
+        "name": "Richard Thorp",
+        "prop": "Proposition 46",
+        "support": "No"
+      },
+      {
+        "organization": "California Hospital Association",
+        "name": "C. Duane Dauner",
+        "prop": "Proposition 46",
+        "support": "No"
+      },
+      {
+        "organization": "California Dental Association",
+        "name": "James Stephens",
+        "prop": "Proposition 46",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Democratic Party",
+        "name": "John Burton",
+        "prop": "Proposition 47",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Teachers Association",
+        "name": "Dean E. Vogel",
+        "prop": "Proposition 47",
+        "support": "Yes"
+      },
+      {
+        "organization": "California State Conference of the NAACP",
+        "name": "Alice A. Huffman",
+        "prop": "Proposition 47",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Federation of Teachers",
+        "name": "Joshua Pechthalt",
+        "prop": "Proposition 47",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Police Chiefs Association",
+        "name": "Chief Kim Raney",
+        "prop": "Proposition 47",
+        "support": "No"
+      },
+      {
+        "organization": "California District Attorneys Association",
+        "name": "Mark A. Peterson",
+        "prop": "Proposition 47",
+        "support": "No"
+      },
+      {
+        "organization": "California State Sheriffs' Association",
+        "name": "Sheriff Martin Ryan",
+        "prop": "Proposition 47",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Democratic Party",
+        "name": "John Burton",
+        "prop": "Proposition 48",
+        "support": "Yes"
+      },
+      {
+        "organization": "California State Conference NAACP",
+        "name": "Alice Huffman",
+        "prop": "Proposition 48",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Teachers Association",
+        "name": "Dean E. Vogel",
+        "prop": "Proposition 48",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Chamber of Commerce",
+        "name": "Allan Zaremberg",
+        "prop": "Proposition 48",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Republican Party",
+        "name": "Jim Brulte",
+        "prop": "Proposition 48",
+        "support": "No"
+      },
+      {
+        "organization": "Stand Up for California!",
+        "name": "Cheryl Schmit",
+        "prop": "Proposition 48",
+        "support": "No"
+      },
+      {
+        "organization": "California Coalition Against Gambling Expansion",
+        "name": "James Sweeney",
+        "prop": "Proposition 48",
+        "support": "No"
+      }
+    ]
+  },
+  {
+    "info": [
+      {
+        "organization": "California Clean Money Campaign",
+        "name": "Trent Lange",
+        "prop": "Proposition 49",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Common Cause",
+        "name": "Kathay Feng",
+        "prop": "Proposition 49",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Public Interest Research Group",
+        "name": "Emily Rusch",
+        "prop": "Proposition 49",
+        "support": "Yes"
+      },
+      {
+        "organization": "California League of Conservation Voters",
+        "name": "Sarah Rose",
+        "prop": "Proposition 49",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Labor Federation",
+        "name": "Art Pulaski",
+        "prop": "Proposition 49",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Democratic Party",
+        "name": "John Burton",
+        "prop": "Proposition 49",
+        "support": "Yes"
+      },
+      {
+        "organization": "California Republican Party",
+        "name": "Jim Brulte",
+        "prop": "Proposition 49",
+        "support": "No"
+      },
+      {
+        "organization": "Howard Jarvis Taxpayers Association",
+        "name": "Jon Coupal",
+        "prop": "Proposition 49",
+        "support": "No"
+      },
+      {
+        "organization": "California Chamber of Commerce",
+        "name": "Allan Zaremberg",
+        "prop": "Proposition 49",
+        "support": "No"
+      }
+    ]
+  }
+]
