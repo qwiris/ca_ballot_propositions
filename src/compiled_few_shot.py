@@ -2,11 +2,12 @@ import os
 import json
 from dotenv import load_dotenv
 from openai import OpenAI
+from app_args import Args
 
 # Load environment variables from the .env file
 load_dotenv()
 # Get the OpenAI API key from the environment
-openai_api_key = os.getenv('OPENAI_API_KEY')
+openai_api_key = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI(api_key=openai_api_key)
 
@@ -89,7 +90,7 @@ Output:
 
 
 def extract(link):
-    prompt=f"""
+    prompt = f"""
   {examples}
   Example 4
   Link: "{link}"
@@ -101,13 +102,10 @@ def extract(link):
         model="gpt-4o",
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
-            {
-                "role": "user",
-                "content": prompt
-            }
+            {"role": "user", "content": prompt},
         ],
         response_format=RESPONSE_FORMAT_JSON,
-        temperature=0
+        temperature=0,
     )
 
     # Extract and print the response
@@ -121,11 +119,18 @@ def extract(link):
         print("Response is not valid JSON:", content)
         return None
 
+
+# source .venv/bin/activate
+# python src/compiled_few_shot.py -h
+# python src/compiled_few_shot.py src/compiled_propositions.json -o out/compiled_prop_results.json
+# python src/compiled_few_shot.py src/compiled_propositions.json -o out/compiled_prop_results.json -m gpt-4o
 if __name__ == "__main__":
     links = []
     results = []
+    args = Args().parse()
+    print(f"Args: {args}")
 
-    with open("compiled_propositions.json", "r") as file:
+    with open(args.propositions_json, "r") as file:
         props = json.load(file)
 
     for item in props:
@@ -140,8 +145,8 @@ if __name__ == "__main__":
         info = extract(link)
         results.append(info)
 
-    # for info in results:
-    #     print(json.dumps(info, indent=2))
+    output_file = args.output if args.output else "./out/compiled_prop_results.json"
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
-    with open("compiled_prop_results.json", "w") as file:
+    with open(output_file, "w") as file:
         json.dump(results, file, indent=2)
