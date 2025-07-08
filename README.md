@@ -2,11 +2,25 @@
 California Ballot Proposition Data. Includes supporters and opponents with their affiliated organizations, 
 per ballot proposition.
 
-This dataset compiles endorsements for various California ballot propositions. 
-Each record represents an organization or public figure's position on a specific proposition, 
+This dataset compiles endorsements for various California ballot propositions.
+Each record represents an organization or public figure's position on a specific proposition,
 including support or opposition.
+
 ---
+
 ## 📝 Instructions
+
+1. Install Python@3.13 and uv
+
+2. Synchronize your Python environment using uv
+```shell
+uv sync
+```
+
+3. Run compiled_few_shot.py to process CA ballot props.
+```shell
+uv run src/compiled_few_shot.py src/compiled_propositions.json
+```
 
 ---
 
@@ -41,3 +55,4 @@ The data is organized as a list of proposition blocks. Each block contains an `"
   "prop": "Proposition 2",
   "support": "Yes"
 }
+```
