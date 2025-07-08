@@ -1,7 +1,18 @@
 [project]
 name = "ca-ballot-propositions"
+authors = [
+    { name = "Qwiris", email = "qingyang.iris.wu@gmail.com" },
+]
 version = "0.1.0"
-description = "Add your description here"
+description = "California ballot propositions analysis using OpenAI's GPT-4o."
 readme = "README.md"
-requires-python = ">=3.11"
-dependencies = []
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "numpy>=2.3.1",
+    "openai>=1.93.0",
+    "pandas>=2.3.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
