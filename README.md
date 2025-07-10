@@ -10,14 +10,19 @@ including support or opposition.
 
 ## 📝 Instructions
 
-1. Install Python@3.13 and uv
+1. Install Python 3.13
 
-2. Synchronize your Python environment using uv
+2. Install uv
+```shell
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+3. Synchronize your Python environment using uv
 ```shell
 uv sync
 ```
 
-3. Run compiled_few_shot.py to process CA ballot props.
+4. Run compiled_few_shot.py to process CA ballot props.
 ```shell
 uv run src/compiled_few_shot.py src/compiled_propositions.json
 ```
