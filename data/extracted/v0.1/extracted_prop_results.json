@@ -1,0 +1,6681 @@
+[
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "League of Women Voters of California",
+          "name": "Jennifer A. Waggoner",
+          "prop": "Proposition 30",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Teachers Association",
+          "name": "Dean E. Vogel",
+          "prop": "Proposition 30",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "California State Sheriffs\u2019 Association",
+          "name": "Keith Royal",
+          "prop": "Proposition 30",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Federation of Teachers",
+          "name": "Joshua Pechthalt",
+          "prop": "Proposition 30",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Police Chiefs Association",
+          "name": "Scott R. Seaman",
+          "prop": "Proposition 30",
+          "year": "2012",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Small Business Action Committee",
+          "name": "Joel Fox",
+          "prop": "Proposition 30",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "National Federation of Independent Business/California",
+          "name": "John Kabateck",
+          "prop": "Proposition 30",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Sacramento Taxpayers Association",
+          "name": "Kenneth Payne",
+          "prop": "Proposition 30",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Howard Jarvis Taxpayers\u2019 Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 30",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California State Board of Education",
+          "name": "Tom Bogetich",
+          "prop": "Proposition 30",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Los Angeles County Board of Education",
+          "name": "Doug Boyd",
+          "prop": "Proposition 30",
+          "year": "2012",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Supreme Court Justice (Retired)",
+          "name": "Cruz Reynoso",
+          "prop": "Proposition 31",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Former Superintendent of Public Instruction",
+          "name": "Delaine A. Eastin",
+          "prop": "Proposition 31",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Stanford University",
+          "name": "James Fishkin, Ph.D.",
+          "prop": "Proposition 31",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Constitution Revision Commission",
+          "name": "Bill Hauck",
+          "prop": "Proposition 31",
+          "year": "2012",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Health Access California",
+          "name": "Anthony Wright",
+          "prop": "Proposition 31",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Federation of Teachers",
+          "name": "Lacy Barnes",
+          "prop": "Proposition 31",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Tax Reform Association",
+          "name": "Lenny Goldberg",
+          "prop": "Proposition 31",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California League of Conservation Voters",
+          "name": "Sarah Rose",
+          "prop": "Proposition 31",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Federation of Teachers",
+          "name": "Joshua Pechthalt",
+          "prop": "Proposition 31",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Peace Officers Research Association of California",
+          "name": "Ron Cottingham",
+          "prop": "Proposition 31",
+          "year": "2012",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Democrats for Education Reform",
+          "name": "Gloria Romero",
+          "prop": "Proposition 32",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Citizens for California Reform",
+          "name": "Gabriella Holt",
+          "prop": "Proposition 32",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "National Federation of Independent Business\u2014California",
+          "name": "John Kabateck",
+          "prop": "Proposition 32",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 32",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Supreme Court Justice (Retired)",
+          "name": "John Arguelles",
+          "prop": "Proposition 32",
+          "year": "2012",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Clean Money Campaign",
+          "name": "Jo Seidita",
+          "prop": "Proposition 32",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Democratic Party",
+          "name": "John Burton",
+          "prop": "Proposition 32",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Los Angeles/Orange Counties Building and Construction Trades Council",
+          "name": "Robbie Hunter",
+          "prop": "Proposition 32",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "League of Women Voters of California",
+          "name": "Jennifer A. Waggoner",
+          "prop": "Proposition 32",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Common Cause",
+          "name": "Derek Cressman",
+          "prop": "Proposition 32",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Fair Political Practices Commission",
+          "name": "Dan Stanford",
+          "prop": "Proposition 32",
+          "year": "2012",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "CDF Firefighters",
+          "name": "Robert T. Wolf",
+          "prop": "Proposition 33",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Small Business Owner",
+          "name": "Estercita Aldinger",
+          "prop": "Proposition 33",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Veterans of Foreign Wars (VFW)",
+          "name": "Dean Lee",
+          "prop": "Proposition 33",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Hispanic Chamber of Commerce",
+          "name": "Julian Canete",
+          "prop": "Proposition 33",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "The Greenlining Institute",
+          "name": "Samuel Kang",
+          "prop": "Proposition 33",
+          "year": "2012",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Nurses Association",
+          "name": "DeAnn McEwen, RN",
+          "prop": "Proposition 33",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Consumer Federation of California",
+          "name": "Richard Holober",
+          "prop": "Proposition 33",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Consumer Watchdog",
+          "name": "Jamie Court",
+          "prop": "Proposition 33",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Consumers Union, the policy and advocacy division of Consumer Reports",
+          "name": "Elisa Odabashian",
+          "prop": "Proposition 33",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Alliance for Retired Americans",
+          "name": "Nan Brasmer",
+          "prop": "Proposition 33",
+          "year": "2012",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Los Angeles County",
+          "name": "Gil Garcetti",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "California's Death Row prison",
+          "name": "Jeanne Woodford",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "League of Women Voters of California",
+          "name": "Jennifer A. Waggoner",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "City of Los Angeles",
+          "name": "Mayor Antonio R. Villaraigosa",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "State of California",
+          "name": "Hon. John Van de Kamp",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Santa Clara County Superior Court",
+          "name": "Judge LaDoris Cordell",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Police Chiefs Association",
+          "name": "Scott Seaman",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California District Attorneys Association",
+          "name": "Carl V. Adams",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Peace Officers Research Association of California",
+          "name": "Ron Cottingham",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California State Sheriffs\u2019 Association",
+          "name": "Keith Royal",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Former Governor of California",
+          "name": "Hon. Pete Wilson",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Father of 12-Year-Old Murder Victim Polly Klaas",
+          "name": "Marc Klaas",
+          "prop": "Proposition 34",
+          "year": "2012",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Alameda County District Attorney",
+          "name": "Nancy O\u2019Malley",
+          "prop": "Proposition 35",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Peace Officers Research Association of California",
+          "name": "Ron Cottingham",
+          "prop": "Proposition 35",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "KlaasKids Foundation",
+          "name": "Marc Klaas",
+          "prop": "Proposition 35",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Police Chiefs Association",
+          "name": "Scott R. Seaman",
+          "prop": "Proposition 35",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Human Trafficking Survivor",
+          "name": "Leah Albright-Byrd",
+          "prop": "Proposition 35",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Human Trafficking Survivor",
+          "name": "Withelma Ortiz",
+          "prop": "Proposition 35",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Human Trafficking Survivor",
+          "name": "Carissa Phelps",
+          "prop": "Proposition 35",
+          "year": "2012",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Erotic Service Providers Legal, Education, and Research Project, Inc.",
+          "name": "Manual Jimenez",
+          "prop": "Proposition 35",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Erotic Service Providers Legal, Education, and Research Project, Inc.",
+          "name": "Maxine Doogan",
+          "prop": "Proposition 35",
+          "year": "2012",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Los Angeles County",
+          "name": "Steve Cooley",
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "San Francisco City and County",
+          "name": "George Gascon",
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Stanford Law School",
+          "name": "David Mills",
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Santa Clara County",
+          "name": "Jeffrey F. Rosen",
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Los Angeles",
+          "name": "Charlie Beck",
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Peace Officers Association",
+          "name": "Chief Rick Braziel",
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California's Victims Bill of Rights",
+          "name": "Henry T. Nicholas, III, Ph.D.",
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Crime Victims Action Alliance",
+          "name": "Christine Ward",
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Police Chiefs Association",
+          "name": null,
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California State Sheriff\u2019s Association",
+          "name": "Sheriff Keith Royal",
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California District Attorneys Association",
+          "name": "District Attorney Carl Adams",
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Peace Officers Research Association of California",
+          "name": null,
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Los Angeles Police Protective League",
+          "name": null,
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Crime Victims United of California",
+          "name": "Harriet Salerno",
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Citizens Against Homicide",
+          "name": null,
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Criminal Justice Legal Foundation",
+          "name": null,
+          "prop": "Proposition 36",
+          "year": "2012",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Center for Food Safety",
+          "name": "Rebecca Spector",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Lundberg Family Farms",
+          "name": "Grant Lundberg",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Consumer Watchdog",
+          "name": "Jamie Court",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Swanton Berry Farm",
+          "name": "Jim Cochran",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Pesticide Action Network",
+          "name": "Dr. Marcia Ishii-Eiteman",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Farm Bureau Federation",
+          "name": "Jonnalee Henderson",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Office of Biotechnology of the Food & Drug Administration",
+          "name": "Dr. Henry I. Miller",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Taxpayer Protection Committee",
+          "name": "Tom Hudson",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Citizens Against Lawsuit Abuse",
+          "name": "Dr. Christine Bruhn",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "National Academy of Sciences",
+          "name": "Dr. Bob Goldberg",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Family Farmer",
+          "name": "Jamie Johansson",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Small Business Association",
+          "name": "Betty Jo Toccoli",
+          "prop": "Proposition 37",
+          "year": "2012",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California State Parent Teacher Association",
+          "name": "Carol Kocivar",
+          "prop": "Proposition 38",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Education Trust-West",
+          "name": "Arun Ramanathan",
+          "prop": "Proposition 38",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "4th District PTA, Orange County",
+          "name": "Celia Jaffe",
+          "prop": "Proposition 38",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "2009 California Teacher of the Year",
+          "name": "Alex Kajitani",
+          "prop": "Proposition 38",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "2010\u20132011 Los Angeles County Teacher of the Year",
+          "name": "Tina Repetti-Renzullo",
+          "prop": "Proposition 38",
+          "year": "2012",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Pomona Unified School District, Board of Education",
+          "name": "Andrew Wong",
+          "prop": "Proposition 38",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California State Sheriffs' Association",
+          "name": "Keith Royal",
+          "prop": "Proposition 38",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "San Diego Tax Fighters",
+          "name": "Richard Rider",
+          "prop": "Proposition 38",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Chamber of Commerce",
+          "name": "Allan Zaremberg",
+          "prop": "Proposition 38",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Orange County Board of Education",
+          "name": "Ken Williams",
+          "prop": "Proposition 38",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Taxpayer Protection Committee",
+          "name": "Thomas Hudson",
+          "prop": "Proposition 38",
+          "year": "2012",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "American Lung Association in California",
+          "name": "Jane Warner",
+          "prop": "Proposition 39",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Californians for Clean Energy and Jobs",
+          "name": "Tom Steyer",
+          "prop": "Proposition 39",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Los Angeles Business Council",
+          "name": "Mary Leslie",
+          "prop": "Proposition 39",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Stanford Law School",
+          "name": "Alan Joseph Bankman",
+          "prop": "Proposition 39",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Latin Business Association",
+          "name": "Ruben Guerra",
+          "prop": "Proposition 39",
+          "year": "2012",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Taxpayer Protection Committee",
+          "name": "Mike Spence",
+          "prop": "Proposition 39",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "Friends for Saving California Jobs",
+          "name": "Robert Ming",
+          "prop": "Proposition 39",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Manufacturers & Technology Association",
+          "name": "Jack Stewart",
+          "prop": "Proposition 39",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "National Tax Limitation Committee",
+          "name": "Lew Uhler",
+          "prop": "Proposition 39",
+          "year": "2012",
+          "support": "No"
+        },
+        {
+          "organization": "California Asian Pacific Chamber of Commerce",
+          "name": "Pat Fong Kushida",
+          "prop": "Proposition 39",
+          "year": "2012",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "League of Women Voters of California",
+          "name": "Jennifer A. Waggoner",
+          "prop": "Proposition 40",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "AARP California",
+          "name": "David Pacheco",
+          "prop": "Proposition 40",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Chamber of Commerce",
+          "name": "Allan Zaremberg",
+          "prop": "Proposition 40",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Common Cause",
+          "name": "Kathay Feng",
+          "prop": "Proposition 40",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "National Federation of Independent Business/California",
+          "name": "John Kabateck",
+          "prop": "Proposition 40",
+          "year": "2012",
+          "support": "Yes"
+        },
+        {
+          "organization": "Los Angeles Area Chamber of Commerce",
+          "name": "Gary Toebben",
+          "prop": "Proposition 40",
+          "year": "2012",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Sponsor",
+          "name": "Julie Vandermost",
+          "prop": "Proposition 40",
+          "year": "2012",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "United States Senate",
+          "name": "Dianne Feinstein",
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "United States Senate",
+          "name": "Barbara Boxer",
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Audubon California",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Chamber of Commerce",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Delta Counties Coalition",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Los Angeles Area Chamber of Commerce",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Ducks Unlimited",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Rivers",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Silicon Valley Leadership Group",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Friant Water Authority",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "San Diego Water Authority",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Metropolitan Water District of Southern California",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Natural Resources Defense Council",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Northern California Water Association",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "State Building and Construction Trades Council of California",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Association of California Water Agencies",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Fresno Irrigation District",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Western Growers",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Farm Bureau Federation",
+          "name": "Paul Wenger",
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "The Nature Conservancy",
+          "name": "Mike Sweeney",
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Office of the Governor of California",
+          "name": "Edmund G. Brown Jr.",
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Natural Resources Committee",
+          "name": "Wesley Chesbro",
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Food & Water Watch",
+          "name": "Adam Scow",
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Pacific Coast Federation of Fishermen's Associations",
+          "name": "Zeke Grader",
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Southern California Watershed Alliance",
+          "name": "Conner Everts",
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Restore the Delta",
+          "name": "Barbara Barrigan-Parilla",
+          "prop": "Proposition 1",
+          "year": "2014",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Chamber of Commerce",
+          "name": "Allan Zaremberg",
+          "prop": "Proposition 2",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "California State Board of Education",
+          "name": "Dr. Michael Kirst",
+          "prop": "Proposition 2",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Rainy Day Fund",
+          "name": "John A. P\u00e9rez",
+          "prop": "Proposition 2",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Rainy Day Fund",
+          "name": "Edmund G. Brown Jr.",
+          "prop": "Proposition 2",
+          "year": "2014",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Educate Our State",
+          "name": "Cushon Bell",
+          "prop": "Proposition 2",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Educate Our State",
+          "name": "Cinnamon O'Neill",
+          "prop": "Proposition 2",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Educate Our State",
+          "name": "Kilty Belt-Vahle",
+          "prop": "Proposition 2",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Educate Our State",
+          "name": "Katherine Welch",
+          "prop": "Proposition 2",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Educate Our State",
+          "name": "Hope Salzer",
+          "prop": "Proposition 2",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Educate Our State",
+          "name": "Jennifer Bestor",
+          "prop": "Proposition 2",
+          "year": "2014",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Nurses Association",
+          "name": "Deborah Burger",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Consumer Watchdog",
+          "name": "Jamie Court",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Campaign For A Healthy California",
+          "name": "Dr. Paul Song",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Congress of California Seniors",
+          "name": "Henry L. \"Hank\" Lacayo",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Proposition 103",
+          "name": "Harvey Rosenfield",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Association of Rural Health Clinics",
+          "name": "Gail Nickerson",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Medical Oncology Association of Southern California",
+          "name": "Robert A. Moss, MD",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Civil Justice Association of California",
+          "name": "Kim Stone",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "American College of Obstetrics and Gynecology, District IX",
+          "name": "Dr. Jeanne Conry, MD, OB/GYN",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "American Nurses Association of California",
+          "name": "Monica Weisbrich, R.N.",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Latino Physicians of California",
+          "name": "Dr. Jos\u00e9 Ar\u00e9valo, M.D.",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "California Chamber of Commerce",
+          "name": "Allan Zaremberg",
+          "prop": "Proposition 45",
+          "year": "2014",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Consumer Watchdog",
+          "name": "Carmen Balber",
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Congress of California Seniors",
+          "name": "Henry L. \"Hank\" Lacayo",
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Mothers Against Drunk Driving",
+          "name": "Candace Lightner",
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Consumer Watchdog",
+          "name": null,
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "U.S. Health and Human Services Department",
+          "name": null,
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "California's Insurance Commissioner",
+          "name": null,
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "American Nurses Association, California",
+          "name": "Tricia Hunter, RN",
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "California Citizens Against Lawsuit Abuse",
+          "name": "Tom Scott",
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "California Small Business Association",
+          "name": "Betty Jo Toccoli",
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "California Association of Nurse Practitioners",
+          "name": "Donna Emanuele, RN",
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "California Children's Hospital Association",
+          "name": "Ann-Louise Kuhns",
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "American Academy of Pediatrics, California",
+          "name": "Stuart Cohen, MD",
+          "prop": "Proposition 46",
+          "year": "2014",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "City and County of San Francisco",
+          "name": "George Gascon",
+          "prop": "Proposition 47",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "San Diego, San Jose, Richmond",
+          "name": "William Lansdowne",
+          "prop": "Proposition 47",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Crime Survivors for Safety & Justice",
+          "name": "Dionne Wilson",
+          "prop": "Proposition 47",
+          "year": "2014",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Coalition Against Sexual Assault",
+          "name": "Sandra Henriquez",
+          "prop": "Proposition 47",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "California State Sheriffs' Association",
+          "name": "Adam Christianson",
+          "prop": "Proposition 47",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "California Fraternal Order of Police",
+          "name": "Roger Mayberry",
+          "prop": "Proposition 47",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "California Retailers Association",
+          "name": "Bill Dombrowski",
+          "prop": "Proposition 47",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "California Police Chiefs Association",
+          "name": "Christopher W. Boyd",
+          "prop": "Proposition 47",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Crime Victims United",
+          "name": "Harriet Salarno",
+          "prop": "Proposition 47",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "California District Attorneys Association",
+          "name": "Gilbert G. Otero",
+          "prop": "Proposition 47",
+          "year": "2014",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California State Building & Construction Trades Council",
+          "name": "Robbie Hunter",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Central California Hispanic Chamber of Commerce",
+          "name": null,
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Madera County Sheriff's Office",
+          "name": "John Anderson",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Madera County Board of Supervisors",
+          "name": "Tom Wheeler",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Association of Tribal Governments",
+          "name": "Will Micklin",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Yosemite Sierra Visitors Bureau",
+          "name": "Dan Cunning",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "State of California",
+          "name": "Edmund G. Brown Jr.",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "Yes"
+        },
+        {
+          "organization": "Madera Chamber of Commerce",
+          "name": "Debi Bray",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Madera County Supervisor",
+          "name": "David Rogers",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "United States Senator",
+          "name": "Dianne Feinstein",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Fresno County Supervisor",
+          "name": "Henry Perea",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Nisei Farmers League",
+          "name": "Manuel Cunha, Jr.",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "No"
+        },
+        {
+          "organization": "Mooretown Rancheria",
+          "name": "Gary Archuleta",
+          "prop": "Proposition 48",
+          "year": "2014",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California State PTA",
+          "name": "Justine Fischer",
+          "prop": "Proposition 51",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Retired Teachers Association",
+          "name": "Ken Hewitt",
+          "prop": "Proposition 51",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Community College League of California",
+          "name": "Larry Galizio",
+          "prop": "Proposition 51",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California School Nurses Organization",
+          "name": "Kathy Ryan",
+          "prop": "Proposition 51",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California School Boards Association",
+          "name": "Chris Ungar",
+          "prop": "Proposition 51",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Taxpayers Association",
+          "name": "Teresa Casazza",
+          "prop": "Proposition 51",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Faculty Association of California Community Colleges",
+          "name": "Jonathan Lightman",
+          "prop": "Proposition 51",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Taxpayers Action Network",
+          "name": "G. Rick Marshall",
+          "prop": "Proposition 51",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Taxpayers Action Network",
+          "name": "Wendy M. Lack",
+          "prop": "Proposition 51",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Hospital Association",
+          "name": "C. Duane Dauner",
+          "prop": "Proposition 52",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Association of Nurse Practitioners",
+          "name": "Theresa Ullrich",
+          "prop": "Proposition 52",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Senior Advocates League",
+          "name": "Deborah Howard",
+          "prop": "Proposition 52",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Children's Hospital Association",
+          "name": "Ann-Louise Kuhns",
+          "prop": "Proposition 52",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Congress of California Seniors",
+          "name": "Gary Passmore",
+          "prop": "Proposition 52",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Medical Association",
+          "name": "Dr. Shannon Udovic-Constant",
+          "prop": "Proposition 52",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "NoOn52.com",
+          "name": "Virginia Anders-Ellmore",
+          "prop": "Proposition 52",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "NoOn52.com",
+          "name": "Michelle Ross",
+          "prop": "Proposition 52",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "NoOn52.com",
+          "name": "Jovita Salcedo",
+          "prop": "Proposition 52",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 53",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Contra Costa County",
+          "name": "Karen Mitchoff",
+          "prop": "Proposition 53",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Highway Patrol",
+          "name": "Maury Hannigan",
+          "prop": "Proposition 53",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Professional Firefighters",
+          "name": "Lou Paulson",
+          "prop": "Proposition 53",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Self-Help Counties Coalition",
+          "name": "Keith Dunn",
+          "prop": "Proposition 53",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California State Sheriffs' Association",
+          "name": "Sheriff Donny Youngblood",
+          "prop": "Proposition 53",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Association of California Water Agencies",
+          "name": "Tim Quinn",
+          "prop": "Proposition 53",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Office of Emergency Services",
+          "name": "Mark Ghilarducci",
+          "prop": "Proposition 53",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "League of Women Voters of California",
+          "name": "Helen Hutchison",
+          "prop": "Proposition 54",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Planning and Conservation League",
+          "name": "Howard Penn",
+          "prop": "Proposition 54",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Chamber of Commerce",
+          "name": "Allan Zaremberg",
+          "prop": "Proposition 54",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Common Cause",
+          "name": "Kathay Feng",
+          "prop": "Proposition 54",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Taxpayers Association",
+          "name": "Teresa Casazza",
+          "prop": "Proposition 54",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "National Federation of Independent Business/California",
+          "name": "Tom Scott",
+          "prop": "Proposition 54",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Chamber of Commerce",
+          "name": null,
+          "prop": "Proposition 54",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California National Organization for Women (NOW)",
+          "name": "Jerilyn Stapleton",
+          "prop": "Proposition 54",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Californians for an Effective Legislature",
+          "name": "Steven Maviglio",
+          "prop": "Proposition 54",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California State PTA",
+          "name": "Justine Fischer",
+          "prop": "Proposition 55",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Children\u2019s Defense Fund\u2014California",
+          "name": "Alex Johnson",
+          "prop": "Proposition 55",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California State Superintendent of Public Instruction",
+          "name": "Tom Torlakson",
+          "prop": "Proposition 55",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Teachers Association",
+          "name": "Eric C. Heins",
+          "prop": "Proposition 55",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California State Controller",
+          "name": "Betty T. Yee",
+          "prop": "Proposition 55",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Children's Hospital Association",
+          "name": "Ann\u2010Louise Kuhns",
+          "prop": "Proposition 55",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 55",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "National Federation of Independent Business\u2014California",
+          "name": "Tom Scott",
+          "prop": "Proposition 55",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Taxpayers Association",
+          "name": "Teresa Casazza",
+          "prop": "Proposition 55",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "American Cancer Society Cancer Action Network",
+          "name": "Lori G. Bremner",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Lung Association in California",
+          "name": "Tami Tittelfitz",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Heart Association, Western States Affiliate",
+          "name": "David Lee",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Campaign for Tobacco-Free Kids",
+          "name": "Matthew L. Myers",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California School Boards Association",
+          "name": "Chris Ungar",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Academy of Pediatrics, California",
+          "name": "Stuart Cohen",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Children\u2019s Defense Fund\u2014California",
+          "name": "Alex M. Johnson",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Department of Finance",
+          "name": "Mike Genest",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California State Board of Education",
+          "name": "Tom Bogetich",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "National Tax Limitation Committee",
+          "name": "Lew Uhler",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California State Board of Education",
+          "name": "Tom Bogetich",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Los Angeles County Department of Health",
+          "name": "Arnold M. Zeiderman",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Association of Orange County Deputy Sheriffs",
+          "name": "Tom Dominguez",
+          "prop": "Proposition 56",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Governor of California",
+          "name": "Edmund G. Brown Jr.",
+          "prop": "Proposition 57",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Chief Probation Officers of California",
+          "name": "Mark Bonini",
+          "prop": "Proposition 57",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Widow of police officer killed in the line of duty",
+          "name": "Dionne Wilson",
+          "prop": "Proposition 57",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "San Diego District Attorney",
+          "name": "Bonnie Dumanis",
+          "prop": "Proposition 57",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "5th District Court of Appeal (Ret.)",
+          "name": "Honorable James Ardaiz",
+          "prop": "Proposition 57",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Orange County",
+          "name": "Sandra Hutchens",
+          "prop": "Proposition 57",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Memory of Victims Everywhere",
+          "name": "Collene Thompson Campbell",
+          "prop": "Proposition 57",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "San Francisco Police Officers Association",
+          "name": "Martin Halloran",
+          "prop": "Proposition 57",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Association of Los Angeles Deputy Sheriffs",
+          "name": "George Hofstetter",
+          "prop": "Proposition 57",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California District Attorneys Association",
+          "name": "Stephen Wagstaffe",
+          "prop": "Proposition 57",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Federation of Teachers",
+          "name": "Lenora Lacy Barnes",
+          "prop": "Proposition 58",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California School Boards Association",
+          "name": "Chris Ungar",
+          "prop": "Proposition 58",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Language Teachers\u2019 Association",
+          "name": "Tanya Zaccone",
+          "prop": "Proposition 58",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California State PTA",
+          "name": "Justine Fischer",
+          "prop": "Proposition 58",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "State Superintendent of Public Instruction",
+          "name": "Tom Torlakson",
+          "prop": "Proposition 58",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Association of California School Administrators",
+          "name": "Ralph Gomez Porras",
+          "prop": "Proposition 58",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Assemblywoman",
+          "name": "Shannon Grove",
+          "prop": "Proposition 58",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Senator",
+          "name": "Joel Anderson",
+          "prop": "Proposition 58",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "English for the Children",
+          "name": "Ron Unz",
+          "prop": "Proposition 58",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Oceanside Unified School District",
+          "name": "Kenneth A. Noonan",
+          "prop": "Proposition 58",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "State Senator",
+          "name": "Ben Allen",
+          "prop": "Proposition 59",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Money Out Voters In",
+          "name": "Michele Sutter",
+          "prop": "Proposition 59",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Common Cause",
+          "name": "Kathay Feng",
+          "prop": "Proposition 59",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "State Senator",
+          "name": "Mark Leno",
+          "prop": "Proposition 59",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "State Senator",
+          "name": "Jeff Stone",
+          "prop": "Proposition 59",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "State Assemblyman",
+          "name": "Katcho Achadjian",
+          "prop": "Proposition 59",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "AIDS Healthcare Foundation",
+          "name": "Cynthia Davis",
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Los Angeles County Sexually Transmitted Disease Program",
+          "name": "Gary A. Richwald",
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California State Association of Occupational Health Nurses",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Academy of Preventive Medicine",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Southern California Coalition for Occupational Safety and Health",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "American College of Obstetricians and Gynecologists\u2014District IX",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Sexual Health Association",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Beyond AIDS",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Communities United Institute",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "UCLA School of Medicine",
+          "name": "Jeffrey Klausner",
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "UCLA Bixby Program on Population and Reproductive Health",
+          "name": "Paula Tavrow",
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "International Entertainment Adult Union (IEAU)",
+          "name": "Amanda Gullesserian",
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Adult Performer Advocacy Committee",
+          "name": "Rachel \u201cChanel Preston\u201d Taylor",
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Occupational Safety & Health Standards Board",
+          "name": "Jere Ingram",
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Valley Industry & Commerce Association",
+          "name": "Jessica Yasukochi",
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Democratic Party",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Republican Party",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Libertarian Party",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Equality California",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Transgender Law Center",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "AIDS Project Los Angeles",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Los Angeles LGBT Center",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "San Francisco AIDS Foundation",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Senator Mark Leno",
+          "name": null,
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Internal Medicine/Infectious Diseases",
+          "name": "Jay Gladstein, M.D.",
+          "prop": "Proposition 60",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Nurses Association/National Nurses Organizing Committee",
+          "name": "Zenei Cortez",
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "AARP California",
+          "name": "Nancy McPherson",
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Democratic Party",
+          "name": "Senator Art Torres (Ret.)",
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "AIDS Healthcare Foundation",
+          "name": "Otto O. Yang",
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Democratic Party Veterans Caucus",
+          "name": "Captain Shawn Terris (Ret.)",
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Los Angeles Urban League/California Association of Urban Leagues",
+          "name": "Nolan V. Rollins",
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Medical Association",
+          "name": null,
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California State Legislative Analyst",
+          "name": null,
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Taxpayers Association",
+          "name": null,
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Veterans of Foreign Wars (VFW), Department of California",
+          "name": null,
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Vietnam Veterans of America, California State Council",
+          "name": "Steve Mackey",
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Hepatitis C Task Force",
+          "name": "William M. Remak",
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California NAACP",
+          "name": "Alice A. Huffman",
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "American Congress of Obstetricians and Gynecologists (ACOG)\u2014District IX/CA",
+          "name": null,
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Ovarian Cancer Coalition of Greater California",
+          "name": null,
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "American Legion, Department of California",
+          "name": null,
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "AMVETS, Department of California",
+          "name": null,
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Latino Diabetes Association",
+          "name": "Randy Munoz",
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Association of Rural Health Clinics",
+          "name": "Gail Nickerson",
+          "prop": "Proposition 61",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "YesOn62.com",
+          "name": "Jeanne Woodford",
+          "prop": "Proposition 62",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "YesOn62.com",
+          "name": "Donald Heller",
+          "prop": "Proposition 62",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "YesOn62.com",
+          "name": "Beth Webb",
+          "prop": "Proposition 62",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "YesOn62.com",
+          "name": "Ron Briggs",
+          "prop": "Proposition 62",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "YesOn62.com",
+          "name": "Robyn Barbour",
+          "prop": "Proposition 62",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "YesOn62.com",
+          "name": "John Donohue",
+          "prop": "Proposition 62",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Association of Deputy District Attorneys of Los Angeles County",
+          "name": "Michele Hanisee",
+          "prop": "Proposition 62",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "San Bernardino County Deputy Sheriffs Association",
+          "name": "Laren Leichliter",
+          "prop": "Proposition 62",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Peace Officers Research Association of California",
+          "name": "Mike Durant",
+          "prop": "Proposition 62",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "American Civil Liberties Union",
+          "name": null,
+          "prop": "Proposition 62",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Lieutenant Governor of California",
+          "name": "Gavin Newsom",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "United States Senator",
+          "name": "Dianne Feinstein",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Law Center to Prevent Gun Violence",
+          "name": "Robyn Thomas",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Democratic Party",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Secretary of State",
+          "name": "Alex Padilla",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Speaker Emeritus of the Assembly",
+          "name": "Toni Atkins",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Speaker Emeritus of the Assembly",
+          "name": "John P\u00e9rez",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Sheriff",
+          "name": "Vicki Hennessy",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Former Police Chief",
+          "name": "Ken James",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "SEIU",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "League of Women Voters of California",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Young Democrats",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Federation of Teachers",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "San Francisco Board of Education",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Equality California",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Courage Campaign",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California American College of Physicians",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California American College of Emergency Physicians",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Southern California Public Health Association",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Clergy and Laity United for Economic Justice",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Coalition Against Gun Violence",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Rabbis Against Gun Violence",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "States United to Prevent Gun Violence",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Stop Handgun Violence",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Stop Our Shootings",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Women Against Gun Violence",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Youth Alive!",
+          "name": null,
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "District Attorney",
+          "name": "Nancy O\u2019Malley",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "District Attorney",
+          "name": "Jeff Rosen",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Direct Measures International, Inc.",
+          "name": "Alon Stivi",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "U.S. Special Operations Command Anti-Terrorism Instructor",
+          "name": "William \u201cBilly\u201d Birdzell",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California State Sheriffs\u2019 Association",
+          "name": "Donny Youngblood",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Reserve Peace Officers Association",
+          "name": "Kevin Bernzott",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Coalition for Civil Liberties",
+          "name": "Tiffany Cheuvront",
+          "prop": "Proposition 63",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Medical Association",
+          "name": null,
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Law Enforcement Against Prohibition",
+          "name": null,
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California NAACP",
+          "name": null,
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Democratic Party",
+          "name": null,
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Department of Public Health",
+          "name": "Dr. Donald O. Lyman",
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Parents for Addiction Treatment and Healing",
+          "name": "Gretchen Burns",
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Los Angeles Police Department",
+          "name": "Steven Downing",
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Youth Education and Prevention Working Group, Blue Ribbon Commission on Marijuana Policy",
+          "name": "Marsha Rosenbaum, Ph.D.",
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "American College of Emergency Physicians",
+          "name": "Dr. Larry Bedard",
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "San Diego County School Boards Association",
+          "name": "Katie Dexter",
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Rosemead School District",
+          "name": "John Quintanilla",
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Walnut Valley Unified School District",
+          "name": "Cynthia Ruiz",
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "International Faith Based Coalition",
+          "name": "Bishop Ron Allen",
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Association of Highway Patrolmen",
+          "name": "Doug Villars",
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Hospital Association",
+          "name": "C. Duane Dauner",
+          "prop": "Proposition 64",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Taxpayer Protection Committee",
+          "name": "Thomas Hudson",
+          "prop": "Proposition 65",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Senior Advocates League",
+          "name": "Deborah Howard",
+          "prop": "Proposition 65",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Californians Against Waste",
+          "name": "Mark Murray",
+          "prop": "Proposition 65",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Los Angeles County District Attorney's Office",
+          "name": "Jackie Lacey",
+          "prop": "Proposition 66",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Family Member of Multiple Homicide Victims",
+          "name": "Kermit Alexander",
+          "prop": "Proposition 66",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Contra Costa County Deputy Sheriffs Association",
+          "name": "Shawn Welch",
+          "prop": "Proposition 66",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "Sacramento County District Attorney's Office",
+          "name": "Anne Marie Schubert",
+          "prop": "Proposition 66",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Correctional Peace Officers Association",
+          "name": "Chuck Alexander",
+          "prop": "Proposition 66",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Los Angeles County",
+          "name": "Gil Garcetti",
+          "prop": "Proposition 66",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "Santa Clara County Superior Court",
+          "name": "Judge LaDoris Cordell",
+          "prop": "Proposition 66",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "League of Women Voters of California",
+          "name": "Helen Hutchison",
+          "prop": "Proposition 66",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California's Death Row prison",
+          "name": "Jeanne Woodford",
+          "prop": "Proposition 66",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "City of Los Angeles",
+          "name": "Hon. Antonio R. Villaraigosa",
+          "prop": "Proposition 66",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Monterey Bay Aquarium",
+          "name": "Julie Packard",
+          "prop": "Proposition 67",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Ocean Protection Council",
+          "name": "John Laird",
+          "prop": "Proposition 67",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Department of Resources Recycling and Recovery",
+          "name": "Scott Smithline",
+          "prop": "Proposition 67",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "United Farm Workers",
+          "name": "Dolores Huerta",
+          "prop": "Proposition 67",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "City of San Jose",
+          "name": "Sam Liccardo",
+          "prop": "Proposition 67",
+          "year": "2016",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Coastal Commission",
+          "name": "Mary Lu\u00e9vano",
+          "prop": "Proposition 67",
+          "year": "2016",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Manufacturers & Technology Association",
+          "name": "Dorothy Rothrock",
+          "prop": "Proposition 67",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Taxpayer Protection Committee",
+          "name": "Thomas Hudson",
+          "prop": "Proposition 67",
+          "year": "2016",
+          "support": "No"
+        },
+        {
+          "organization": "California Senior Advocates League",
+          "name": "Deborah Howard",
+          "prop": "Proposition 67",
+          "year": "2016",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Disabled American Veterans, Department of California",
+          "name": "Gerald G. Wilson",
+          "prop": "Proposition 1",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Habitat for Humanity California",
+          "name": "Sharon Ellis",
+          "prop": "Proposition 1",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Congress of California Seniors",
+          "name": "Gary Passmore",
+          "prop": "Proposition 1",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Partnership to End Domestic Violence",
+          "name": "Kathy Moore",
+          "prop": "Proposition 1",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Veterans Assistance Foundation",
+          "name": "Deborah Johnson",
+          "prop": "Proposition 1",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "People Assisting The Homeless (PATH)",
+          "name": "Jennifer Hark Dietz, LCSW",
+          "prop": "Proposition 1",
+          "year": "2018",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Gary Wesley",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2018",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Mental Health America of California (MHAC)",
+          "name": "Zima Creason",
+          "prop": "Proposition 2",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Police Chiefs Association",
+          "name": "Chief David Swing",
+          "prop": "Proposition 2",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "National Advisory Mental Health Council of the National Institute of Mental Health",
+          "name": "Dr. Sergio Aguilar-Gaxiola",
+          "prop": "Proposition 2",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Chapter of American College of Emergency Physicians",
+          "name": "Dr. Aimee Moulin",
+          "prop": "Proposition 2",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Professional Firefighters",
+          "name": "Brian K. Rice",
+          "prop": "Proposition 2",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "National Association of Social Workers\u2014California Chapter",
+          "name": "Janlee Wong, MSW",
+          "prop": "Proposition 2",
+          "year": "2018",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "NAMI Contra Costa",
+          "name": "Charles Madison",
+          "prop": "Proposition 2",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "NAMI Contra Costa",
+          "name": "Gigi R. Crowder, L.E.",
+          "prop": "Proposition 2",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "NAMI Contra Costa",
+          "name": "Douglas W. Dunn",
+          "prop": "Proposition 2",
+          "year": "2018",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Water Resources Engineer",
+          "name": "Betty Andrews",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Biology Scientist",
+          "name": "Professor Peter Moyle",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Northern California Water Association",
+          "name": "David Guy",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Southern California Water Coalition",
+          "name": "Charley Wilson",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Save The Bay",
+          "name": "David Lewis",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Water Resources Planner",
+          "name": "Juliana Gonzalez, Ph.D.",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Community Conservation Solutions",
+          "name": "Esther Feldman",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Water Resources Planner",
+          "name": "Ann Riley, Ph.D.",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Peach Grower",
+          "name": "Carol Chandler",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Mountain Counties Water Resources Association",
+          "name": "Barbara Balen",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Chamber of Commerce",
+          "name": "Alan Zaremberg",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "National Wildlife Federation",
+          "name": "Collin O\u2019Mara",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Water Quality Scientist",
+          "name": "DYAN WHYTE",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Wildlife Foundation",
+          "name": "JANET SANTOS COBB",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Water Resources Engineer",
+          "name": "ROBERTO RAMIREZ",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Community Water Center",
+          "name": "Susana de Anda",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "TreePeople",
+          "name": "Cindy Montanez",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Iron Horse Vineyards",
+          "name": "Joy Sterling",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Contra Costa State Building and Construction Trades Council",
+          "name": "Bill Whitney",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Senator",
+          "name": "Dianne Feinstein",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Former California State Treasurer",
+          "name": "PHIL ANGELIDES",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Planning and Conservation League",
+          "name": "HOWARD PENN",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Fire Chief",
+          "name": "JEANNE PINCHA-TULLEY",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Central Solano Citizen/Taxpayer Group",
+          "name": "Janet S. Roberts",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "Central Solano Citizen/Taxpayer Group",
+          "name": "Robert D. Jarvis",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "Central Solano Citizen/Taxpayer Group",
+          "name": "Murray T. Bass",
+          "prop": "Proposition 3",
+          "year": "2018",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Children\u2019s Hospital Association",
+          "name": "Ann-Louise Kuhns",
+          "prop": "Proposition 4",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 4",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "El Dorado County",
+          "name": "Joe Harn",
+          "prop": "Proposition 4",
+          "year": "2018",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Gary Wesley",
+          "name": null,
+          "prop": "Proposition 4",
+          "year": "2018",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Highland Senior Center",
+          "name": "Penny Lilburn",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "AMVETS Department of California",
+          "name": "Kyle Miles",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Californians for Disability Rights, Inc.",
+          "name": "Susan Chandler",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Senior Advocates League",
+          "name": "Marilyn Markham",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Department of Finance",
+          "name": "Michael C. Genest",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Congress of California Seniors",
+          "name": "Gary Passmore",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "California Alliance for Retired Americans",
+          "name": "Nan Brasmer",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "League of Women Voters of California",
+          "name": "Helen L. Hutchison",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "California Department of Finance",
+          "name": "Tim Gage",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "National Housing Law Project",
+          "name": "Shamus Roller",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "California Professional Firefighters",
+          "name": "Brian Rice",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "Middle Class Taxpayers Association",
+          "name": "Carol Kim",
+          "prop": "Proposition 5",
+          "year": "2018",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Give Voters a Voice\u2014Yes on Prop. 6",
+          "name": "John Cox",
+          "prop": "Proposition 6",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Latino American Political Association",
+          "name": "Delores Chavez",
+          "prop": "Proposition 6",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Women\u2019s Leadership Association",
+          "name": "Peggi Buff",
+          "prop": "Proposition 6",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 6",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "National Federation of Independent Business",
+          "name": "John Kabateck",
+          "prop": "Proposition 6",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Farmworkers and Families PAC",
+          "name": "Jesse Rojas",
+          "prop": "Proposition 6",
+          "year": "2018",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Professional Firefighters",
+          "name": "Brian K. Rice",
+          "prop": "Proposition 6",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "California Office of Emergency Services",
+          "name": "Mark Ghilarducci",
+          "prop": "Proposition 6",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "California League of United Latin American Citizens (CA LULAC)",
+          "name": "Yvonne Gonzalez Duncan",
+          "prop": "Proposition 6",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "American Society of Civil Engineers",
+          "name": "Kwame Agyare",
+          "prop": "Proposition 6",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "California Association of Highway Patrolmen",
+          "name": "Doug Villars",
+          "prop": "Proposition 6",
+          "year": "2018",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Assembly District 25",
+          "name": "Assemblymember Kansen Chu",
+          "prop": "Proposition 7",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Assembly District 80",
+          "name": "Assemblywoman Lorena Gonzalez",
+          "prop": "Proposition 7",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Cardiologist",
+          "name": "Dr. Sion Roy, M.D.",
+          "prop": "Proposition 7",
+          "year": "2018",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "19th Senate District",
+          "name": "Senator Hannah-Beth Jackson",
+          "prop": "Proposition 7",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "55th District",
+          "name": "Phillip Chen",
+          "prop": "Proposition 7",
+          "year": "2018",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Dialysis Advocates, LLC",
+          "name": null,
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Californians for Disability Rights",
+          "name": null,
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "CalPERS",
+          "name": null,
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Congress of California Seniors",
+          "name": "Gary Passmore",
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Service Employees International Union California",
+          "name": null,
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Minority Veterans Coalition of California",
+          "name": null,
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Alliance for Retired Americans",
+          "name": "Nancy Brasmer",
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Democratic Party",
+          "name": null,
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Southern Christian Leadership Conference of Southern California",
+          "name": "Pastor William D. Smart, Jr.",
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "American Nurses Association\\California",
+          "name": "Phillip Bautista",
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "California Medical Association",
+          "name": "Theodore M. Mazer",
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "American College of Emergency Physicians, California Chapter",
+          "name": "Aimee Moulin",
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "California NAACP",
+          "name": null,
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "National Hispanic Medical Association",
+          "name": null,
+          "prop": "Proposition 8",
+          "year": "2018",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Nurses Association",
+          "name": "Zenei Cortez",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Alliance for Retired Americans",
+          "name": "Nan Brasmer",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Eviction Defense Network",
+          "name": "Elena Popp",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Democratic Party",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Housing California",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "National Urban League",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "ACLU of California",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "AIDS Healthcare Foundation",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Property Owners for Fair and Affordable Housing",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Painters & Allied Trades 36",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Service Employees International Union (SEIU)",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Federation of State, County and Municipal Employees (AFSCME)",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Humboldt and Del Norte Counties Central Labor Council AFL-CIO",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Rural Legal Assistance Foundation",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Western Center on Law and Poverty",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "National Action Network-Los Angeles",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Central Coast Alliance United for a Sustainable Economy",
+          "name": null,
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Teachers Association",
+          "name": "Eric C. Heins",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Southern Christian Leadership Conference of Southern California",
+          "name": "Rev. William D. Smart, Jr.",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "SEIU California",
+          "name": "Roxanne Sanchez",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California State Conference of the National Association for the Advancement of Colored People (NAACP)",
+          "name": "Alice A. Huffman",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "California Small Business Association",
+          "name": "Betty Jo Toccoli",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "California Senior Advocates League",
+          "name": "Marilyn H. Markham",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "California Association of REALTORS",
+          "name": "Stephen White",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "American G.I. Forum of California",
+          "name": "Frederick A. Romero",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "United Latinos Vote",
+          "name": "Robert Apodaca",
+          "prop": "Proposition 10",
+          "year": "2018",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Emergency Physician",
+          "name": "Adam Dougherty, MD, MPH",
+          "prop": "Proposition 11",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Los Angeles County Emergency Medical Services Agency",
+          "name": "Carol Meyer, RN",
+          "prop": "Proposition 11",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Licensed Paramedic",
+          "name": "Jaison Chand",
+          "prop": "Proposition 11",
+          "year": "2018",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": []
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "The Humane Society of the United States",
+          "name": "Crystal Moreland",
+          "prop": "Proposition 12",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Western University College of Veterinary Medicine",
+          "name": "Dr. James Reynolds",
+          "prop": "Proposition 12",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Farm Forward",
+          "name": "Andrew Decoriolis",
+          "prop": "Proposition 12",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Humane Society Veterinary Medical Association",
+          "name": "Dr. Barbara Hodges",
+          "prop": "Proposition 12",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Central Valley Eggs",
+          "name": "Jeff Peterson",
+          "prop": "Proposition 12",
+          "year": "2018",
+          "support": "Yes"
+        },
+        {
+          "organization": "Animal Protection and Rescue League",
+          "name": "Brooke Haggerty",
+          "prop": "Proposition 12",
+          "year": "2018",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Californians Against Cruelty, Cages, and Fraud",
+          "name": "Mark Emerson",
+          "prop": "Proposition 12",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "Action for Animals",
+          "name": "Eric Mills",
+          "prop": "Proposition 12",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "Friends of Animals",
+          "name": "Peter T. Brown",
+          "prop": "Proposition 12",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "Humane Farming Association",
+          "name": "Bradley Miller",
+          "prop": "Proposition 12",
+          "year": "2018",
+          "support": "No"
+        },
+        {
+          "organization": "Californians Against Cruelty, Cages, and Fraud",
+          "name": "Lowell Finley",
+          "prop": "Proposition 12",
+          "year": "2018",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "American Association for Cancer Research",
+          "name": "Antoni Ribas, M.D., Ph.D.",
+          "prop": "Proposition 14",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Diabetes Association\u2013Los Angeles",
+          "name": "Cynthia E. Mu\u00f1oz, Ph.D., MPH",
+          "prop": "Proposition 14",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Department of Medicine, Stanford University",
+          "name": "Robert A. Harrington, M.D.",
+          "prop": "Proposition 14",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "The Michael J. Fox Foundation for Parkinson\u2019s Research",
+          "name": "Todd Sherer, Ph.D.",
+          "prop": "Proposition 14",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Shiley\u2013Marcos Alzheimer\u2019s Disease Research Center, University of California, San Diego",
+          "name": "Lawrence Goldstein, Ph.D.",
+          "prop": "Proposition 14",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Children's Hospital Los Angeles",
+          "name": "Tracy Grikscheit, M.D.",
+          "prop": "Proposition 14",
+          "year": "2020",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Vincent Fortanasce, M.D.",
+          "name": null,
+          "prop": "Proposition 14",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Patrick James Baggot, M.D.",
+          "name": null,
+          "prop": "Proposition 14",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Teachers Association",
+          "name": "E. Toby Boyd",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "League of Women Voters",
+          "name": "Carol Moon Goldberg",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Fresno Metro Black Chamber of Commerce",
+          "name": "Tara Lynn Gray",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Latino Community Foundation",
+          "name": "Jacqueline Martinez",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "San Francisco Department of Public Health",
+          "name": "Sasha Cuttler",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California State Conference of the NAACP",
+          "name": "Alice Huffman",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Small Business Association",
+          "name": "Betty Jo Toccoli",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Restaurant Association",
+          "name": "Jot Condie",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Farm Bureau Federation",
+          "name": "Jamie Johansson",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Senior Advocates League",
+          "name": "Marilyn Markham",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Taxpayers Association",
+          "name": "Robert Gutierrez",
+          "prop": "Proposition 15",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "League of Women Voters of California",
+          "name": "Carol Moon Goldberg",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Mexican American Legal Defense and Educational Fund",
+          "name": "Thomas A. Saenz",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Equal Justice Society",
+          "name": "Eva Paterson",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Teachers Association",
+          "name": "E. Toby Boyd",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "ACLU of San Diego and Imperial Counties",
+          "name": "Norma Chavez-Peterson",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "The Martin Luther King, Jr. Center",
+          "name": "Dr. Bernice A. King",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Haas School of Business, University of California, Berkeley",
+          "name": "Tom Campbell",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Civil Rights Lawyer",
+          "name": "Leo Terrell",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Public School Teacher",
+          "name": "Kali Fontanilla",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Californians for Equal Rights",
+          "name": "Ward Connerly",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Professor of Law",
+          "name": "Gail Heriot",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Former California Constitution Revision Commissioner",
+          "name": "Betty Tom Chu",
+          "prop": "Proposition 16",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "League of Women Voters of California",
+          "name": "Carol Moon Goldberg",
+          "prop": "Proposition 17",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Californians for Safety and Justice",
+          "name": "Jay Jordan",
+          "prop": "Proposition 17",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Civil Liberties Union (ACLU)\u2014Northern California",
+          "name": "Abdi Soltani",
+          "prop": "Proposition 17",
+          "year": "2020",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Crime Victims United of California",
+          "name": "Harriet Salarno",
+          "prop": "Proposition 17",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California State Senator",
+          "name": "Jim Nielsen",
+          "prop": "Proposition 17",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Election Integrity Project California",
+          "name": "Ruth Weiss",
+          "prop": "Proposition 17",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "CA Assembly District 22",
+          "name": "Kevin Mullin",
+          "prop": "Proposition 18",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "CA Assembly District 28",
+          "name": "Evan Low",
+          "prop": "Proposition 18",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "California League of Conservation Voters (CLCV)",
+          "name": "Mary Creasman",
+          "prop": "Proposition 18",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "USAF (Retired)",
+          "name": "Senator Richard D. Roth",
+          "prop": "Proposition 18",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "U.S. Army (Retired)",
+          "name": "Senator Thomas J. Umberg",
+          "prop": "Proposition 18",
+          "year": "2020",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Election Integrity Project California",
+          "name": "Ruth Weiss",
+          "prop": "Proposition 18",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 18",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Retired Teacher",
+          "name": "Larry Sand",
+          "prop": "Proposition 18",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Professional Firefighters",
+          "name": "Brian Rice",
+          "prop": "Proposition 19",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Californians for Disability Rights",
+          "name": "Kathleen Barajas",
+          "prop": "Proposition 19",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Senior Advocates League",
+          "name": "George Mozingo",
+          "prop": "Proposition 19",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Black Small Business Association of California",
+          "name": "Salena Pryor",
+          "prop": "Proposition 19",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "David Wolfe",
+          "prop": "Proposition 19",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 19",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California State Senate",
+          "name": "Patricia Bates",
+          "prop": "Proposition 19",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California State Assembly",
+          "name": "Ken Cooley",
+          "prop": "Proposition 19",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Crime Survivors, Inc.",
+          "name": "Patricia Wenskunas",
+          "prop": "Proposition 20",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Crime Victims United of California",
+          "name": "Nina Salarno Besselman",
+          "prop": "Proposition 20",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Crime Victims Alliance",
+          "name": "Christine Ward",
+          "prop": "Proposition 20",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Criminal Justice Legal Foundation",
+          "name": "Michael Rushford",
+          "prop": "Proposition 20",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Organization for Justice and Equality",
+          "name": "Frank Lee",
+          "prop": "Proposition 20",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Police Chiefs Association",
+          "name": "Eric R. Nu\u00f1ez",
+          "prop": "Proposition 20",
+          "year": "2020",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Contra Costa County",
+          "name": "Diana Becton",
+          "prop": "Proposition 20",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "National Center for Victims of Crime",
+          "name": "Renee Williams",
+          "prop": "Proposition 20",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Crime Survivors for Safety and Justice",
+          "name": "Tinisch Hollins",
+          "prop": "Proposition 20",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "City of San Diego",
+          "name": "William Landsdowne",
+          "prop": "Proposition 20",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "State of California",
+          "name": "Michael Cohen",
+          "prop": "Proposition 20",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Dolores Huerta Foundation",
+          "name": "Dolores Huerta",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "California State Senate",
+          "name": "Kevin De Le\u00f3n",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "AIDS Healthcare Foundation",
+          "name": "Cynthia Davis",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Social Security Works California",
+          "name": "Ernie Powell",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "California State Senate",
+          "name": "Ben Allen",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Veterans Caucus Chair of the California Democratic Party",
+          "name": "Jillynn Molina-Williams",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "UNITE HERE Local 11",
+          "name": "Ada Brice\u00f1o",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Consumer Watchdog",
+          "name": "Jamie Court",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "San Francisco Democratic Party",
+          "name": "David Campos",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California State Conference of the NAACP",
+          "name": "Alice Huffman",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Senior Advocates League",
+          "name": "Marilyn Markham",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Taxpayers Association",
+          "name": "Robert Gutierrez",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "American Legion, Dept. of California",
+          "name": "Edward J. Grimsley",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "AMVETS, Dept. of California",
+          "name": "Lorraine J. Plass",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Council for Affordable Housing",
+          "name": "Patrick Sabelhaus",
+          "prop": "Proposition 21",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Small Business Association",
+          "name": "Betty Jo Toccoli",
+          "prop": "Proposition 22",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Independent Drivers Alliance of California",
+          "name": "Jim Pyatt",
+          "prop": "Proposition 22",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "NAACP Los Angeles",
+          "name": "Minnie Hadley-Hempstead",
+          "prop": "Proposition 22",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Hayward South Alameda County NAACP",
+          "name": "Freddye Davis",
+          "prop": "Proposition 22",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Hispanic Chambers of Commerce",
+          "name": "Julian Canete",
+          "prop": "Proposition 22",
+          "year": "2020",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Lyft Driver",
+          "name": "Jerome Gage",
+          "prop": "Proposition 22",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Black Women for Wellness Action Project",
+          "name": "Nourbese Flint",
+          "prop": "Proposition 22",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Labor Federation",
+          "name": "Art Pulaski",
+          "prop": "Proposition 22",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Southern Christian Leadership Conference of Southern California",
+          "name": "Pastor William D. Smart, Jr.",
+          "prop": "Proposition 23",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Dialysis Registered Nurse",
+          "name": "Megallan Handford",
+          "prop": "Proposition 23",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Dialysis Patient",
+          "name": "Carmen Cartagena",
+          "prop": "Proposition 23",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Dialysis Technician",
+          "name": "Emanuel Gonzales",
+          "prop": "Proposition 23",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Dialysis Patient",
+          "name": "Robert Villanueva",
+          "prop": "Proposition 23",
+          "year": "2020",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "American Nurses Association\\California",
+          "name": "Marketa Houskova",
+          "prop": "Proposition 23",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Medical Association",
+          "name": "Peter N. Bretan",
+          "prop": "Proposition 23",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Dialysis Patient Citizens",
+          "name": null,
+          "prop": "Proposition 23",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "NAACP California",
+          "name": null,
+          "prop": "Proposition 23",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Taxpayer Protection Committee",
+          "name": null,
+          "prop": "Proposition 23",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Common Sense Media",
+          "name": "James P. Steyer",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "California NAACP",
+          "name": "Alice A. Huffman",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Californians for Consumer Privacy",
+          "name": "Celine Mactaggart",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Consumer Privacy Act",
+          "name": "Senator Robert M. Hertzberg",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Nobel Prize Winner in Economics",
+          "name": "Paul Romer",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Academy of Integrative Health & Medicine",
+          "name": "Brad Jacobs, MD",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Consumer Reports",
+          "name": "Maureen Mahoney, PhD",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Theodore Judah PTA",
+          "name": "Alex Traverso",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "American Civil Liberties Union (ACLU) of California",
+          "name": "Kevin Baker",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "California Alliance for Retired Americans",
+          "name": "Nan Brasmer",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Color of Change",
+          "name": "John Mathias",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Californians for Privacy Now",
+          "name": "Tracy Rosenberg",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Consumer Federation of California",
+          "name": "Richard Holober",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Labor and Civil Rights Leader",
+          "name": "Dolores Huerta",
+          "prop": "Proposition 24",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Californians for Safety and Justice",
+          "name": "Lenore Anderson",
+          "prop": "Proposition 25",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Contra Costa County District Attorney",
+          "name": "Diana Becton",
+          "prop": "Proposition 25",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Mental Health America of California",
+          "name": "Heidi L. Strunk",
+          "prop": "Proposition 25",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Legislative Black Caucus",
+          "name": "Steven Bradford",
+          "prop": "Proposition 25",
+          "year": "2020",
+          "support": "Yes"
+        },
+        {
+          "organization": "Western Center on Law & Poverty",
+          "name": "Jessica Bartholow",
+          "prop": "Proposition 25",
+          "year": "2020",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California State Conference of the NAACP",
+          "name": "Alice Huffman",
+          "prop": "Proposition 25",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Crime Victims Alliance",
+          "name": "Christine Ward",
+          "prop": "Proposition 25",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "United Latinos Vote",
+          "name": "Joe Coto",
+          "prop": "Proposition 25",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Riverside County Sheriff",
+          "name": "Chad Bianco",
+          "prop": "Proposition 25",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Sacramento County Supervisor",
+          "name": "Sue Frost",
+          "prop": "Proposition 25",
+          "year": "2020",
+          "support": "No"
+        },
+        {
+          "organization": "Retired California Superior Court Judge",
+          "name": "Quentin L. Kopp",
+          "prop": "Proposition 25",
+          "year": "2020",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Medical Association",
+          "name": "Shannon Udovic-Constant, M.D.",
+          "prop": "Proposition 1",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Planned Parenthood Affiliates of California",
+          "name": "Jodi Hicks",
+          "prop": "Proposition 1",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "League of Women Voters of California",
+          "name": "Carol Moon Goldberg",
+          "prop": "Proposition 1",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Nurses Association",
+          "name": "Sandy Reding, R.N.",
+          "prop": "Proposition 1",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "American College of Obstetricians and Gynecologists",
+          "name": "Kelly McCue, M.D.",
+          "prop": "Proposition 1",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "UCLA Center on Reproductive Health, Law and Policy",
+          "name": "Cary Franklin, J.D.",
+          "prop": "Proposition 1",
+          "year": "2022",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Alliance of Pregnancy Care",
+          "name": "Allison Martinez",
+          "prop": "Proposition 1",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Pacific Justice Institute",
+          "name": "Brad Dacus",
+          "prop": "Proposition 1",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "International Faith Based Coalition",
+          "name": "Tak Allen",
+          "prop": "Proposition 1",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Assemblymember Jim Patterson",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Dr. Anne Marie Adams",
+          "name": null,
+          "prop": "Proposition 1",
+          "year": "2022",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Barona Band of Mission Indians",
+          "name": "Beth Glasco",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Indian Chamber of Commerce",
+          "name": "Tracy Stanhoff",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Federated Indians of Graton Rancheria",
+          "name": "Greg Sarris",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Santa Ynez Band of Chumash Indians",
+          "name": "Maxine Littlejohn",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Yocha Dehe Wintun Nation",
+          "name": "Anthony Roberts",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Office of Native American Affairs at California Department of Justice",
+          "name": "Olin Jones",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Indian Chamber of Commerce",
+          "name": null,
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "NAACP California",
+          "name": null,
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "California District Attorneys Association",
+          "name": null,
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Yolo County Fire Chiefs Association",
+          "name": null,
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "San Diego Police Officers Association",
+          "name": null,
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "La Raza Roundtable of California",
+          "name": null,
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Nations Indian Gaming Association",
+          "name": null,
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Gold Coast Veterans Foundation",
+          "name": null,
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Baptist Ministers Conference of LA and Southern California",
+          "name": null,
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "National Veterans Foundation",
+          "name": "Floyd Meshad",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "California Senior Advocates League",
+          "name": "George Mozingo",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "American Federation of State, County, and Municipal Employees Local 36 Management Chapter",
+          "name": "Shavon Moore-Cage",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "California Hispanic Chambers of Commerce",
+          "name": "Julian Canete",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Society for the Prevention of Cruelty to Animals Los Angeles (spcaLA)",
+          "name": "Madeline Bernstein",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "California Black Chamber of Commerce",
+          "name": "Jay King",
+          "prop": "Proposition 26",
+          "year": "2022",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "San Diego Regional Task Force on Homelessness",
+          "name": "Tamera Kohler",
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Middletown Rancheria of Pomo Indians of California",
+          "name": "Jose \u201cMoke\u201d Simon",
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Local Initiatives Support Corporation (LISC) San Diego",
+          "name": "Ricardo Flores",
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Big Valley Band of Pomo Indians of the Big Valley Rancheria, California",
+          "name": "Phillip Gomez",
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Santa Rosa Ranchera Tachi Yokut Tribe",
+          "name": "Leo Sisco",
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Nations Indian Gaming Association",
+          "name": "James Siva",
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Alpha Project for the Homeless",
+          "name": "Robert McElroy",
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Blue Lake Rancheria of California",
+          "name": "Claudia Brundin",
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Tribal Alliance of Sovereign Indian Nations",
+          "name": "Lynn Valbuena",
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Ione Band of Miwok Indians",
+          "name": "Sara Dutschke Setshwaelo",
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Salvation Army of San Bernardino",
+          "name": "Steven Pinckney",
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "NAACP California",
+          "name": null,
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "California League of United Latin American Citizens",
+          "name": null,
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "California District Attorneys Association",
+          "name": null,
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "CalAsian Chamber of Commerce",
+          "name": null,
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Goodwill Southern California",
+          "name": null,
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Veterans of Foreign Wars Department of CA",
+          "name": null,
+          "prop": "Proposition 27",
+          "year": "2022",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Californians for Arts and Music in Public Schools",
+          "name": "Austin Beutner",
+          "prop": "Proposition 28",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Teachers Association",
+          "name": "E. Toby Boyd",
+          "prop": "Proposition 28",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "California State PTA",
+          "name": "Carol Green",
+          "prop": "Proposition 28",
+          "year": "2022",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": []
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Dialysis Patient Care Technician",
+          "name": "Emanuel Gonzales",
+          "prop": "Proposition 29",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "The Baptist Ministers Conference of Los Angeles",
+          "name": "Reverend Kisheen W. Tulloss",
+          "prop": "Proposition 29",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Dialysis Patient Advocate",
+          "name": "Cecilia Gomez-Gonzalez",
+          "prop": "Proposition 29",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Former Dialysis Patient",
+          "name": "Shama Aslam",
+          "prop": "Proposition 29",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Dialysis Patient",
+          "name": "Richard Elliott",
+          "prop": "Proposition 29",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Dialysis Patient",
+          "name": "Ruben Tadeo",
+          "prop": "Proposition 29",
+          "year": "2022",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "American Nurses Association\\California",
+          "name": "Marketa Houskova",
+          "prop": "Proposition 29",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "California Medical Association",
+          "name": "Robert E. Wailes",
+          "prop": "Proposition 29",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Dialysis Patient Citizens",
+          "name": null,
+          "prop": "Proposition 29",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "American Academy of Nephrology Physician Assistants",
+          "name": null,
+          "prop": "Proposition 29",
+          "year": "2022",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "CalFire State Firefighters",
+          "name": "Tim Edwards",
+          "prop": "Proposition 30",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Lung Association",
+          "name": "David Tom Cooke, M.D., ",
+          "prop": "Proposition 30",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Coalition for Clean Air",
+          "name": "Sherry Jackman",
+          "prop": "Proposition 30",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Environmental Voters",
+          "name": "Mary Creasman",
+          "prop": "Proposition 30",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Natural Resources Defense Council",
+          "name": "Max Baumhefner",
+          "prop": "Proposition 30",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "Union of Concerned Scientists",
+          "name": "Dr. Jose Pablo Ortiz Partida",
+          "prop": "Proposition 30",
+          "year": "2022",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Teachers Association",
+          "name": "E. Toby Boyd",
+          "prop": "Proposition 30",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 30",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "California Small Business Association",
+          "name": "Betty Jo Toccoli",
+          "prop": "Proposition 30",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "United Latinos Action",
+          "name": "Joe Coto",
+          "prop": "Proposition 30",
+          "year": "2022",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "American Cancer Society Cancer Action Network",
+          "name": "Jose Ramos",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Lung Association in California",
+          "name": null,
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Heart Association",
+          "name": "Kathy Rogers",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Academy of Pediatrics, California",
+          "name": "Karmi Ferguson",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Hawaii State Conference NAACP",
+          "name": "Rick L. Callender",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Medical Association",
+          "name": "Robert E. Wailes, M.D.",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "Yes"
+        },
+        {
+          "organization": "California School Nurses Organization",
+          "name": "Sheri Coburn",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Police Officer",
+          "name": "Yasha Nikitin",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "Central Valley Business Federation",
+          "name": "Clint Olivier",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "CalAsian Chamber of Commerce",
+          "name": "Pat Fong Kushida",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "California Department of Finance",
+          "name": "Michael Genest",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "California Hispanic Chambers of Commerce",
+          "name": "Julian Canete",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "No"
+        },
+        {
+          "organization": "California Taxpayer Protection Committee",
+          "name": "Tom Hudson",
+          "prop": "Proposition 31",
+          "year": "2022",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Teachers Association",
+          "name": "David Goldberg",
+          "prop": "Proposition 2",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California School Nurses Organization",
+          "name": "Sheri Coburn",
+          "prop": "Proposition 2",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Community College League of California",
+          "name": "Larry Galizio",
+          "prop": "Proposition 2",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Retired Teachers Association",
+          "name": "Susan Dixon",
+          "prop": "Proposition 2",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "International Brotherhood of Electrical Workers Local Union 11",
+          "name": "Diana Limon",
+          "prop": "Proposition 2",
+          "year": "2024",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Assemblyman Bill Essayli",
+          "name": null,
+          "prop": "Proposition 2",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 2",
+          "year": "2024",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Equality California",
+          "name": "Tony Hoang",
+          "prop": "Proposition 3",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Evangelical Lutheran Church in America's Sierra Pacific Synod",
+          "name": "The Rev. Jef R. Johnson",
+          "prop": "Proposition 3",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "American Civil Liberties Union of Northern California",
+          "name": null,
+          "prop": "Proposition 3",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Dolores Huerta Foundation",
+          "name": "Dolores Huerta",
+          "prop": "Proposition 3",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Planned Parenthood Affiliates of California",
+          "name": "Jodi Hicks",
+          "prop": "Proposition 3",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Human Rights Campaign",
+          "name": "Mia Kirby",
+          "prop": "Proposition 3",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "TransLatin@ Coalition",
+          "name": "Maria Roman",
+          "prop": "Proposition 3",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California State Senate",
+          "name": "Senator Scott Wiener",
+          "prop": "Proposition 3",
+          "year": "2024",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Family Council",
+          "name": "Jonathan Keller",
+          "prop": "Proposition 3",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "The American Council of Evangelicals",
+          "name": "Rev. Tanner DiBella",
+          "prop": "Proposition 3",
+          "year": "2024",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Clean Water Action",
+          "name": "Jennifer Clary",
+          "prop": "Proposition 4",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "CALFIRE Firefighters",
+          "name": "Tim Edwards",
+          "prop": "Proposition 4",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "National Wildlife Federation",
+          "name": "Beth Pratt",
+          "prop": "Proposition 4",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Community Water Center",
+          "name": "Susana De Anda",
+          "prop": "Proposition 4",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "The Nature Conservancy",
+          "name": "Sarah Gibson",
+          "prop": "Proposition 4",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Coalition for Clean Air",
+          "name": "Christopher Chavez",
+          "prop": "Proposition 4",
+          "year": "2024",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Senate Minority Leader",
+          "name": "Brian W. Jones",
+          "prop": "Proposition 4",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Assemblyman",
+          "name": "Jim Patterson",
+          "prop": "Proposition 4",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 4",
+          "year": "2024",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Professional Firefighters",
+          "name": "Brian K. Rice",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "League of Women Voters of California",
+          "name": "Christopher Carson",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Habitat for Humanity California",
+          "name": "Leah Miller",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "League of California Cities",
+          "name": "Daniel Parra",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Middle Class Taxpayers Association",
+          "name": "John Valencia",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Nurses Association",
+          "name": "Michelle Gutierrez Vo",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Howard Jarvis Taxpayers Association",
+          "name": "Jon Coupal",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California Senior Alliance",
+          "name": "Rev. Dwight E. Williams",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California Consumer Advocates for Affordability and Safety",
+          "name": "Greg Van Dyke",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California Taxpayers Association",
+          "name": "Robert Gutierrez",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California Hispanic Chambers of Commerce",
+          "name": "Julian Canete",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Women Veterans Alliance",
+          "name": "Kendra Moss",
+          "prop": "Proposition 5",
+          "year": "2024",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "California Legislature",
+          "name": "Lori Wilson",
+          "prop": "Proposition 6",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Dolores Huerta Foundation",
+          "name": "Dolores Huerta",
+          "prop": "Proposition 6",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Law Enforcement Action Partnership",
+          "name": "Stephen Downing",
+          "prop": "Proposition 6",
+          "year": "2024",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": []
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Anti-Poverty Advocate",
+          "name": "Joe Sanberg",
+          "prop": "Proposition 32",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "UNITE HERE Local 11",
+          "name": "Ada F. Brice\u00f1o",
+          "prop": "Proposition 32",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "U.S. House of Representatives, California 44th District",
+          "name": "Nanette Barrag\u00e1n",
+          "prop": "Proposition 32",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "One Fair Wage",
+          "name": "Saru Jayaraman",
+          "prop": "Proposition 32",
+          "year": "2024",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Restaurant Association",
+          "name": "Jot Condie",
+          "prop": "Proposition 32",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California Chamber of Commerce",
+          "name": "Jennifer Barrera",
+          "prop": "Proposition 32",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California Grocers Association",
+          "name": "Ron Fong",
+          "prop": "Proposition 32",
+          "year": "2024",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Veterans' Voices",
+          "name": "Basil Kimbrew",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Alliance for Retired Americans",
+          "name": "Pauline Brooks",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "AIDS Healthcare Foundation / Housing Is a Human Right",
+          "name": "William Arroyo",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Nurses Association",
+          "name": "Sandy Reding",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Coalition for Economic Survival",
+          "name": "Larry Gross",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "California Small Business Association",
+          "name": "Michael Hedges",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California Hispanic Chambers of Commerce",
+          "name": "Julian Canete",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California Senior Alliance",
+          "name": "Rev. Dwight Williams",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Housing Action Coalition",
+          "name": null,
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California Conference of Carpenters",
+          "name": null,
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California YIMBY",
+          "name": null,
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California Chamber of Commerce",
+          "name": null,
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Senate President Pro Tem Emeritus",
+          "name": "Toni Atkins",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Democratic Assemblymember",
+          "name": "Buffy Wicks",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Marine Corps Veterans Association",
+          "name": null,
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "UC Berkeley",
+          "name": "Ken Rosen",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "California Council for Affordable Housing",
+          "name": "Jenna Abbott",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Women Veterans Alliance",
+          "name": "Kendra Moss",
+          "prop": "Proposition 33",
+          "year": "2024",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Legislative LGBT Caucus",
+          "name": "Evan Low",
+          "prop": "Proposition 34",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "The ALS Association",
+          "name": "Kelly Goss",
+          "prop": "Proposition 34",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Latino Heritage Los Angeles",
+          "name": "Nilza Serrano",
+          "prop": "Proposition 34",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Professional Firefighters",
+          "name": "Brian K. Rice",
+          "prop": "Proposition 34",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "San Francisco Hep B Free",
+          "name": "Stuart Fong",
+          "prop": "Proposition 34",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Senior Alliance",
+          "name": "Rev. Dwight Williams",
+          "prop": "Proposition 34",
+          "year": "2024",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "National Organization for Women",
+          "name": "Jerilyn Stapleton",
+          "prop": "Proposition 34",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Consumer Watchdog",
+          "name": "Jamie Court",
+          "prop": "Proposition 34",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Coalition for Economic Survival",
+          "name": "Larry Gross",
+          "prop": "Proposition 34",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "AIDS Healthcare Foundation",
+          "name": "Condessa M. Curley, M.D./MPH",
+          "prop": "Proposition 34",
+          "year": "2024",
+          "support": "No"
+        }
+      ]
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "American Academy of Pediatrics, California",
+          "name": "Dr. Yasuko Fukuda",
+          "prop": "Proposition 35",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "International Association of EMTs and Paramedics",
+          "name": "Jack Yandell",
+          "prop": "Proposition 35",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Planned Parenthood Affiliates of California",
+          "name": "Jodi Hicks",
+          "prop": "Proposition 35",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Medical Association",
+          "name": null,
+          "prop": "Proposition 35",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "American College of Obstetricians and Gynecologists\u2014District IX",
+          "name": null,
+          "prop": "Proposition 35",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Chapter, American College of Emergency Physicians",
+          "name": null,
+          "prop": "Proposition 35",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Primary Care Association",
+          "name": null,
+          "prop": "Proposition 35",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "La Cl\u00ednica de la Raza",
+          "name": null,
+          "prop": "Proposition 35",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Community Clinic Association of Los Angeles County",
+          "name": null,
+          "prop": "Proposition 35",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Dental Association",
+          "name": null,
+          "prop": "Proposition 35",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Academy of Family Physicians",
+          "name": null,
+          "prop": "Proposition 35",
+          "year": "2024",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": []
+    }
+  },
+  {
+    "supporters": {
+      "info": [
+        {
+          "organization": "Family Business Association of California",
+          "name": "Robert Rivinius",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Riverside County District Attorney",
+          "name": "Mike Hestrin",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Mothers Against Drug Addiction and Deaths",
+          "name": "Gina McDonald",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "National Action Network Los Angeles",
+          "name": "Rev. Jonathan Moseley",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California District Attorneys Association",
+          "name": "Gregory Totten",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "Crime Victims United",
+          "name": "Harriet Salarno",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Small Business Association",
+          "name": "Michael Hedges",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Black Chamber of Commerce",
+          "name": "Jay King",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "Yes"
+        },
+        {
+          "organization": "California Consumer Advocates for Affordability and Safety",
+          "name": "Greg Van Dyke",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "Yes"
+        }
+      ]
+    },
+    "opponents": {
+      "info": [
+        {
+          "organization": "Prosecutors Alliance Action",
+          "name": "Cristine Soto DeBerry",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Reentry Providers Association of California",
+          "name": "Don Frazier",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Crime Survivors for Safety and Justice",
+          "name": "David Guizar",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Contra Costa County",
+          "name": "Diana Becton",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "City of San Diego",
+          "name": "William Lansdowne",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "No"
+        },
+        {
+          "organization": "Crime Survivors for Safety and Justice",
+          "name": "Jess Nichol",
+          "prop": "Proposition 36",
+          "year": "2024",
+          "support": "No"
+        }
+      ]
+    }
+  }
+]
